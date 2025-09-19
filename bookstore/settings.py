@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "schema_graph",
+    "django_extensions",
     "core"
 ]
 
