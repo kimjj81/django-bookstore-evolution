@@ -11,6 +11,10 @@ dependencies = [
     "django-filter>=25.1",
     "django-schema-graph>=3.1.0",
     "djangorestframework>=3.16.1",
+    "drf-spectacular>=0.28.0",
+    "drf-yasg>=1.21.10",
+    "flex>=6.14.1",
     "markdown>=3.9",
+    "redoc>=0.2.3",
     "ruff>=0.13.1",
 ]
